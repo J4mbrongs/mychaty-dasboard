@@ -1,4 +1,4 @@
-const rpcUrl = "https://polygon-amoy.core.chainstack.com/9e9bed8eb52da69782807d832c2cc924";
+const rpcUrl = "https://greatest-solitary-seed.quiknode.pro/624c1fa77a92f1db1549ba3246d4d06c4afd7e79/";
 const walletAddress = "0x2a63E334e71Cb80B857D4b5821e673C73Ce18a68";
 
 async function fetchBlockNumber() {
